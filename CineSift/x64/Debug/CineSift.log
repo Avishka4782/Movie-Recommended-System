@@ -1,0 +1,17 @@
+﻿  CineSift.cpp
+G:\Projects\CineSift\CineSift\HashTable.h(121,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CineSift.cpp')
+  
+G:\Projects\CineSift\CineSift\HashTable.h(186,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CineSift.cpp')
+  
+  HashTable.cpp
+G:\Projects\CineSift\CineSift\HashTable.h(121,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'HashTable.cpp')
+  
+G:\Projects\CineSift\CineSift\HashTable.h(186,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'HashTable.cpp')
+  
+  Movie.cpp
+  Generating Code...
+  CineSift.vcxproj -> G:\Projects\CineSift\x64\Debug\CineSift.exe

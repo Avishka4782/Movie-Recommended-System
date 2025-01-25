@@ -1,0 +1,31 @@
+Action,Spider-Man: No Way Home,2021,Jon Watts,Amazon Prime,8.2
+Action,The Raid 2, 2014, Gareth Evans, Netflix, 8.1
+Action,Mad Max: Fury Road, 2015, George Miller, Amazon Prime, 8.1
+Action,John Wick, 2014, Chad Stahelski, Starz, 7.4
+Action,The Matrix, 1999, Wachowski brothers, HBO Max, 8.7
+Action,Inception, 2010, Christopher Nolan, Netflix, 8.8
+Comedy,Monty Python and the Holy Grail, 1975, Terry Jones and Terry Gilliam, Netflix, 8.3
+Comedy,The Big Lebowski, 1998, Joel Coen and Ethan Coen, Hulu, 8.1
+Comedy,21 Jump Street, 2012, Phil Lord and Christopher Miller, Starz, 7.2
+Comedy,Bridesmaids, 2011, Paul Feig, HBO Max, 6.9
+Comedy,The Hangover, 2009, Todd Phillips, HBO Max, 7.7
+Drama,The Shawshank Redemption, 1994, Frank Darabont, Netflix, 9.3
+Drama,Schindler's List, 1993, Steven Spielberg, Netflix, 8.9
+Drama,The Godfather, 1972, Francis Ford Coppola, Paramount+, 9.2
+Drama,12 Angry Men, 1957, Sidney Lumet, Amazon Prime, 8.9
+Drama,The Dark Knight, 2008, Christopher Nolan, HBO Max, 9.0
+Sci-Fi,2001: A Space Odyssey, 1968, Stanley Kubrick, YouTube, 8.3
+Sci-Fi,Blade Runner 2049, 2017, Denis Villeneuve, HBO Max, 8.0
+Sci-Fi,Arrival, 2016, Denis Villeneuve, Hulu, 8.0
+Sci-Fi,Ex Machina, 2014, Alex Garland, Netflix, 7.7
+Sci-Fi,Interstellar, 2014, Christopher Nolan, Netflix, 8.6
+Horror,The Shining, 1980, Stanley Kubrick, HBO Max, 8.4
+Horror,The Exorcist, 1973, William Friedkin, Peacock, 8.0
+Horror,Hereditary, 2018, Ari Aster, Hulu, 7.3
+Horror,Get Out, 2017, Jordan Peele, Netflix, 8.4
+Horror,The Thing, 1982, John Carpenter, HBO Max, 8.2
+Romance,The Princess Bride, 1987, Rob Reiner, Disney+, 8.1
+Romance,When Harry Met Sally, 1989, Rob Reiner, HBO Max, 7.9
+Romance,Crazy Rich Asians, 2018, Jon M. Chu, HBO Max, 6.9
+Romance,The Notebook, 2004, Nick Cassavetes, Netflix, 7.3
+Romance,La La Land, 2016, Damien Chazelle, Netflix, 8.0
